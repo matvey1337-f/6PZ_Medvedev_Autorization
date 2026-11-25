@@ -1,0 +1,8 @@
+﻿<Page x:Class="_2_wpf_medvedev_.Pages.Client"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Client" Background="White">
+    <Grid>
+
+    </Grid>
+</Page>

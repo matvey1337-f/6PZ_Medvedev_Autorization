@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.12.12412.261 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_wpf_medvedev_", "2_wpf_medvedev_\2_wpf_medvedev_.csproj", "{2B53DF54-F922-4C01-A9DF-098872A63D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{1C33BCA8-0828-4986-9209-75CECCF33C0F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B53DF54-F922-4C01-A9DF-098872A63D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B53DF54-F922-4C01-A9DF-098872A63D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B53DF54-F922-4C01-A9DF-098872A63D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B53DF54-F922-4C01-A9DF-098872A63D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35736B98-9276-43E6-A1D8-BF2D7E896C83}
+	EndGlobalSection
+EndGlobal
